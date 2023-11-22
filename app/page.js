@@ -82,6 +82,17 @@ export default function Home() {
             <iframe
               width="560"
               height="315"
+              src="https://www.youtube.com/embed/S5ODbm5sxbM?si=5hGjpxshae6HJMP9"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </a>
+          <a>
+            <iframe
+              width="560"
+              height="315"
               src="https://www.youtube.com/embed/2cuWqHwc0v4?si=b9t5U8S96LCQwMrQ"
               title="YouTube video player"
               frameborder="0"
