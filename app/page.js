@@ -12,7 +12,7 @@ export default function Home() {
     >
       <div>
         {" "}
-        <h1>Surguuliin temtseen</h1>
+        <h1>Shin jil</h1>
       </div>
       <div
         style={{
@@ -22,41 +22,7 @@ export default function Home() {
           gap: "50px",
           justifyContent: "center",
         }}
-      >
-        <a>
-          <iframe
-            width="560"
-            height="315"
-            src="https://www.youtube.com/embed/JMs_rd5_mZk?si=wVRUxRHQ18x99Nub"
-            title="YouTube video player"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen
-          ></iframe>
-        </a>
-        <a>
-          <iframe
-            width="560"
-            height="315"
-            src="https://www.youtube.com/embed/_mOPVBd0XrU?si=ytLmVH1s5zNWmTEF"
-            title="YouTube video player"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen
-          ></iframe>
-        </a>
-        <a>
-          <iframe
-            width="560"
-            height="315"
-            src="https://www.youtube.com/embed/_b93rv3HAnA?si=WoSeV30G5nSENNZ0"
-            title="YouTube video player"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen
-          ></iframe>
-        </a>
-      </div>
+      ></div>
       <div
         style={{
           display: "flex",
@@ -66,9 +32,6 @@ export default function Home() {
           justifyContent: "center",
         }}
       >
-        <div>
-          <h1>Huuhduud sonsoh du</h1>
-        </div>
         <div
           style={{
             display: "flex",
@@ -82,6 +45,94 @@ export default function Home() {
             <iframe
               width="560"
               height="315"
+              src="https://www.youtube.com/embed/1RWXHI4mm6E?si=IT6dziAe182crhqG"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </a>
+          <a>
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/2pQKqQ9sG50?si=sytE_qPOKMpyW7Mk"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </a>
+          <a>
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/QSoewptWMR0?si=tfowoSih4v5mSeNI"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </a>
+          <a>
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/Q8UYRDsdAo0?si=GsnQHsDKYSBpwzgB"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </a>
+          <a>
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/_2p2pFUoS5c?si=tuXl6QnQp0OYCyt6"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </a>
+          <a>
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/4IhmrdberL8?si=gke-3_TZFIBpOL9y"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </a>
+          <a>
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/UYVNRT5J8rY?si=qsGqsDVQoKQO6mVK"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </a>
+          <a>
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/s0vxV6Ei_mk?si=QmZzn-FxyyrkR7wv"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </a>
+          <a>
+            <iframe
+              width="560"
+              height="315"
               src="https://www.youtube.com/embed/S5ODbm5sxbM?si=5hGjpxshae6HJMP9"
               title="YouTube video player"
               frameborder="0"
@@ -90,10 +141,11 @@ export default function Home() {
             ></iframe>
           </a>
           <a>
+            {" "}
             <iframe
               width="560"
               height="315"
-              src="https://www.youtube.com/embed/yik3IZJ4hpI?si=aKSLOeCDdUSKVLwu"
+              src="https://www.youtube.com/embed/pZ6oeHV28b0?si=HThE04V7vVIgprQg"
               title="YouTube video player"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -104,7 +156,18 @@ export default function Home() {
             <iframe
               width="560"
               height="315"
-              src="https://www.youtube.com/embed/cim8LQrqSWM?si=RfR3BX-LtiyRL6KV"
+              src="https://www.youtube.com/embed/3OUdeW4HmgE?si=-pdN5Kj5hekO5DZS"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </a>
+          <a>
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/mrrWigHS8oI?si=t1XjGxlaD0XBV11t"
               title="YouTube video player"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -319,60 +382,7 @@ export default function Home() {
           gap: "50px",
           justifyContent: "center",
         }}
-      >
-        <div>
-          <h1>Toglolton dunduur yavah dunduu</h1>
-        </div>
-        <div
-          style={{
-            display: "flex",
-            alignItems: "center",
-            flexWrap: "wrap",
-            gap: "50px",
-            justifyContent: "center",
-          }}
-        >
-          <a>
-            <iframe
-              width="560"
-              height="315"
-              src="https://www.youtube.com/embed/JBYLUUPy3U4?si=Tc52hU-oBb96zsHS"
-              title="YouTube video player"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
-            ></iframe>
-            <p>Dovtolgoogoor onoo avah uyed ene duug 16 sekund yavuulah</p>
-          </a>
-          <a>
-            <iframe
-              width="560"
-              height="315"
-              src="https://www.youtube.com/embed/Ftndim2z1l4?si=BAtOT9-AAcXKh-p0"
-              title="YouTube video player"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
-            ></iframe>
-            <p>Haaltaar onoo avah uyed ene duug 16 sekund yavuulah</p>
-          </a>
-          <a>
-            <iframe
-              width="560"
-              height="315"
-              src="https://www.youtube.com/embed/LKGPWsuZyrI?si=9qjApc67a7wjaUTL"
-              title="YouTube video player"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
-            ></iframe>
-            <p>
-              Davuulaltaar onoo avah uyed ene duug 12 sekund buyuu buten
-              yavuulah
-            </p>
-          </a>
-        </div>
-      </div>
+      ></div>
     </main>
   );
 }
